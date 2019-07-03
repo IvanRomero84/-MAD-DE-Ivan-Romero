@@ -1,0 +1,114 @@
+
+/* Clases Generales */
+
+h3{
+    color: #2d354c;
+    
+}
+h2{
+   color: #2d354c;
+   text-align: center;
+   margin: 10px; 
+}
+.esp{
+    padding: 40px 0;
+}
+
+/* Navegador */
+
+nav a {
+    padding: 0 10px;
+    text-decoration: none;
+    color: white;
+}
+.nav {
+    display: flex;
+    justify-content: space-between; 
+   
+    align-items: center;
+    
+}
+.apli {
+    border: 1px solid white;
+    border-radius: 10%;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+/* Main */
+
+.background{
+       background-image: url("img/download.svg");
+    background-position: bottom;
+    padding: 0 300px;
+    color: white;
+    width: 103%;
+    text-align: center;
+    background-repeat: no-repeat; 
+}
+.header2{
+    padding: 100px 0;
+}
+main p{
+    font-size: 1.2em;
+}
+main h1 {
+    font-size: 2.5em;
+}
+.blue{
+    color: #32c3ff;
+}
+.cursos{
+    border: 1px solid #32c3ff;
+    background-color: #32c3ff;
+    font-size: 1.2em;
+    padding: 10px 60px;
+    text-decoration: none;
+    color: white;
+    border-radius: 9%;
+}
+
+/* Aside */
+
+aside{
+    margin: 40px 0;
+}
+small{
+    display: block;
+    text-align: center;
+}
+aside img{
+margin-left: 10px;
+width: 9%;
+filter:grayscale(1);
+}
+.icons{
+    text-align: center;
+}
+
+/* Section1 */
+
+.datos{
+    font-size: 1.6em;
+    color: #2d354c;
+    text-align: center;
+}
+.peñita{
+    width: 100%;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, .1);
+}
+.columna{
+    color:#f29025;
+}
+
+/* Section 2 */
+
+section p{
+    color: gray;
+}
+
+/* Section 3 */
+
+.section3{
+    background-color: #f8f8f8;
+}
